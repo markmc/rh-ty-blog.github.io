@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ruby's blog entry"
+title:  "test entry"
 date:   2025-02-5 12:58:15 +0100
 categories: jekyll update
 ---
